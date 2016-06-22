@@ -1,0 +1,3 @@
+AccountName1;Email1;Senha1;Nickname1;Classe1
+BOSADSAD;DSADSAF;GFDGFD;RTHRTEQ;QWDWQDAS
+AccountName3;Email3;Senha3;Nickname3;Classe3
