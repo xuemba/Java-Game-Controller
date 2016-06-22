@@ -3,6 +3,10 @@ package trabalhopoo;
 public class TrabalhoPOO {
 
     public static void main(String[] args) {
+        //GITHUB https://github.com/xuemba/unisc
+        
+        //Lucas Fernando Schwnegber || 96631 
+        
         Administrador adm = new Administrador();
         Jogo jog = new Jogo();
         Boolean x;
